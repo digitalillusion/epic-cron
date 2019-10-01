@@ -1,0 +1,12 @@
+server:
+  port: 8090
+spring:
+  application:
+    name: cron
+  main:
+    allow-bean-definition-overriding: true
+logging:
+  level:
+    root: INFO
+    org:
+      springframework: INFO
