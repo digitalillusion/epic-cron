@@ -1,4 +1,4 @@
-# epic-cron
+# riff-cron
 Spring Boot cron functions for riff v0.1.3 or later
 
 riff environment
